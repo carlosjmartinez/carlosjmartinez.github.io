@@ -65,7 +65,7 @@ li{
 	float: left;
 	list-style-type: none;
 	padding: 10px;
-	background: black;
+	background: white;
 	margin: 3px;
 	border-radius: 10px;
 	box-shadow: 0 0 10px black inset;
@@ -119,7 +119,7 @@ p{
 .ancho_menu_home{width: 900px;}
 .ancho_menu_paginas{width: 970px;}
 
-.menu:link{color: white; text-decoration: none;}
+.menu:link{color: black; text-decoration: none;}
 .menu:visited{color: white; text-decoration: none;}
 .menu:hover{color: white; text-decoration: none; text-shadow: 0 0 13px white;}
 .menu:active{color: white; text-decoration: none;}
