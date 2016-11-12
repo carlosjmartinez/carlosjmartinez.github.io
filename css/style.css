@@ -72,7 +72,8 @@ li{
 
 }
 
-nav li ul{
+li ul{
+	position:absolute;
 	display:none;
 }
 
