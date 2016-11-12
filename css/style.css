@@ -72,17 +72,6 @@ li{
 
 }
 
-li ul{
-	position:absolute;
-	display:none;
-}
-
-.submenu a{
-	display:block;
-	padding:10px 5px;
-	width: 130px; 
-
-}
 
 
 section{
