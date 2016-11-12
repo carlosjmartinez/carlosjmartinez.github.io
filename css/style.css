@@ -72,9 +72,10 @@ li{
 
 }
 
-li ul{
+.nav li ul{
 	display:none;
-	
+}
+
 section{
 	width: 700px;
 	background: white;
