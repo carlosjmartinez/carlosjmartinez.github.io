@@ -72,6 +72,9 @@ li{
 
 }
 
+li ul{
+	display:none;
+	
 section{
 	width: 700px;
 	background: white;
