@@ -263,12 +263,32 @@ span{
 .menu:hover{color: white; text-decoration: none; text-shadow: 0 0 13px white;}
 .menu:active{color: white; text-decoration: none;}
 
-/*SEUDO CLASES*/
+#contenidos-lecturas {
 
 
+body{
+background-image: url(../img/azullectura1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+}
 
 
+h3{
+font-family: 'Shadows Into Light', cursive;;
+color: white;
+font-size: 30px;
+text-align: center; 
+}
+section{
+	width: 700px;
+	background: white;
+	height: 600px;
+	float: left;
+	margin-top: 20px;
+	border-radius: 10px;
 
+}
 
 
 
